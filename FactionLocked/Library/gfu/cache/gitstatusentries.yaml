@@ -13,9 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-24T15:39:02.111-06:00
+  lastUpdatedAtString: 2021-02-24T15:43:17.552-06:00
   initializedAtString: 2021-02-24T15:24:48.857-06:00
   entries:
+  - path: FactionLocked/Assets/Scenes/SampleScene.unity
+    fullPath: /Users/braydon/Desktop/untitled folder/FactionLocked/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/ArtifactDB
+    fullPath: /Users/braydon/Desktop/untitled folder/FactionLocked/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: FactionLocked/Library/gfu/cache/branches.yaml
     fullPath: /Users/braydon/Desktop/untitled folder/FactionLocked/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -46,9 +58,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked/Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/braydon/Desktop/untitled folder/FactionLocked/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
+  - path: FactionLocked/Library/gfu/cache/gituser.yaml
+    fullPath: /Users/braydon/Desktop/untitled folder/FactionLocked/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

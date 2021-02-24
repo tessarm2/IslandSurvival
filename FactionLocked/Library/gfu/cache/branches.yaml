@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-24T15:39:11.757-06:00
+  lastUpdatedAtString: 2021-02-24T15:40:09.262-06:00
   initializedAtString: 2021-02-24T15:26:24.261-06:00
-  localBranches: []
+  localBranches:
+  - name: proto-1
+    tracking: origin/proto-1
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
@@ -32,8 +34,14 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - proto-1
+    values:
+    - name: proto-1
+      remote:
+        name: origin
+        url: https://github.com/bdudley2/IslandSurvival.git
+      trackingBranch: proto-1
   remoteConfigBranches:
     keys:
     - origin
