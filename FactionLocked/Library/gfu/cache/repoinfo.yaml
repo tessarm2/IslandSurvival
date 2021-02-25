@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2021-02-24T15:34:01.318-06:00
   initializedAtString: 2021-02-24T15:24:43.381-06:00
+=======
+  lastUpdatedAtString: 2021-02-25T14:26:56.741-06:00
+  initializedAtString: 2021-02-25T14:26:56.741-06:00
+>>>>>>> Stashed changes
   currentGitRemote:
     name: origin
     url: https://github.com/bdudley2/IslandSurvival.git
