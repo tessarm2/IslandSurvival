@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-02-24T15:34:01.318-06:00
-  initializedAtString: 2021-02-24T15:24:43.381-06:00
+  lastUpdatedAtString: 2021-02-25T14:37:00.517-06:00
+  initializedAtString: 2021-02-25T14:26:56.741-06:00
   currentGitRemote:
     name: origin
     url: https://github.com/bdudley2/IslandSurvival.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: proto-1
-    tracking: 
+    name: IS-18_drawableCanvas
+    tracking: origin/IS-18_drawableCanvas
   currentConfigBranch:
-    name: proto-1
+    name: IS-18_drawableCanvas
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/bdudley2/IslandSurvival.git
+    trackingBranch: IS-18_drawableCanvas
   currentConfigRemote:
     name: origin
     url: https://github.com/bdudley2/IslandSurvival.git
