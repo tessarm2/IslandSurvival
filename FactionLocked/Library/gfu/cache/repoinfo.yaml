@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-02-24T15:43:50.546-06:00
-  initializedAtString: 2021-02-24T15:24:43.381-06:00
+  lastUpdatedAtString: 2021-02-25T15:37:32.759-06:00
+  initializedAtString: 2021-02-25T15:37:32.759-06:00
   currentGitRemote:
     name: origin
-    url: https://github.com/bdudley2/IslandSurvival.git
+    url: https://github.com/tessarm2/IslandSurvival.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: proto-1
     remote:
       name: origin
-      url: https://github.com/bdudley2/IslandSurvival.git
+      url: https://github.com/tessarm2/IslandSurvival.git
     trackingBranch: proto-1
   currentConfigRemote:
     name: origin
-    url: https://github.com/bdudley2/IslandSurvival.git
+    url: https://github.com/tessarm2/IslandSurvival.git
   currentHead: 
