@@ -10,16 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_Name:
+  m_EditorClassIdentifier:
   cacheType: 2
-  lastUpdatedAtString: 2021-02-25T14:37:00.542-06:00
-  initializedAtString: 2021-02-25T14:35:55.483-06:00
+  lastUpdatedAtString: 2021-02-24T15:43:50.549-06:00
+  initializedAtString: 2021-02-24T15:26:24.261-06:00
   localBranches:
-  - name: IS-18_drawableCanvas
-    tracking: origin/IS-18_drawableCanvas
-  - name: master
-    tracking: origin/master
   - name: proto-1
     tracking: origin/proto-1
   remoteBranches:
@@ -29,30 +25,20 @@ MonoBehaviour:
     tracking: '[None]'
   - name: origin/proto-1
     tracking: '[None]'
+  - name: origin/proto-1
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/bdudley2/IslandSurvival.git
-    login: 
-    user: 
-    host: 
+    login:
+    user:
+    host:
     function: 0
-    token: 
+    token:
   localConfigBranches:
     keys:
-    - IS-18_drawableCanvas
-    - master
     - proto-1
     values:
-    - name: IS-18_drawableCanvas
-      remote:
-        name: origin
-        url: https://github.com/bdudley2/IslandSurvival.git
-      trackingBranch: IS-18_drawableCanvas
-    - name: master
-      remote:
-        name: origin
-        url: https://github.com/bdudley2/IslandSurvival.git
-      trackingBranch: master
     - name: proto-1
       remote:
         name: origin
@@ -64,7 +50,7 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - IS-18_drawableCanvas
+      - master
       - proto-1
     subKeyValues:
     - Values:
@@ -72,17 +58,22 @@ MonoBehaviour:
         remote:
           name: origin
           url: https://github.com/bdudley2/IslandSurvival.git
-        trackingBranch: 
+        trackingBranch:
       - name: IS-18_drawableCanvas
         remote:
           name: origin
           url: https://github.com/bdudley2/IslandSurvival.git
-        trackingBranch: 
+        trackingBranch:
       - name: proto-1
         remote:
           name: origin
           url: https://github.com/bdudley2/IslandSurvival.git
-        trackingBranch: 
+        trackingBranch:
+      - name: proto-1
+        remote:
+          name: origin
+          url: https://github.com/bdudley2/IslandSurvival.git
+        trackingBranch:
   configRemotes:
     keys:
     - origin
