@@ -13,21 +13,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-25T14:37:00.542-06:00
-  initializedAtString: 2021-02-25T14:35:55.483-06:00
+  lastUpdatedAtString: 2021-03-14T15:59:00.464-05:00
+  initializedAtString: 2021-03-14T15:59:00.450-05:00
   localBranches:
-  - name: IS-18_drawableCanvas
-    tracking: origin/IS-18_drawableCanvas
+  - name: Braydon
+    tracking: origin/Braydon
+  - name: Tessa
+    tracking: origin/Tessa
   - name: master
     tracking: origin/master
-  - name: proto-1
-    tracking: origin/proto-1
+  - name: pr/6
+    tracking: 
   remoteBranches:
+  - name: origin/Braydon
+    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/IS-18_drawableCanvas
+  - name: origin/Tessa
     tracking: '[None]'
-  - name: origin/proto-1
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -39,46 +43,58 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - IS-18_drawableCanvas
+    - Braydon
+    - Tessa
     - master
-    - proto-1
+    - pr/6
     values:
-    - name: IS-18_drawableCanvas
+    - name: Braydon
       remote:
         name: origin
         url: https://github.com/bdudley2/IslandSurvival.git
-      trackingBranch: IS-18_drawableCanvas
+      trackingBranch: Braydon
+    - name: Tessa
+      remote:
+        name: origin
+        url: https://github.com/bdudley2/IslandSurvival.git
+      trackingBranch: Tessa
     - name: master
       remote:
         name: origin
         url: https://github.com/bdudley2/IslandSurvival.git
       trackingBranch: master
-    - name: proto-1
+    - name: pr/6
       remote:
-        name: origin
-        url: https://github.com/bdudley2/IslandSurvival.git
-      trackingBranch: proto-1
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - Braydon
       - HEAD
-      - IS-18_drawableCanvas
-      - proto-1
+      - Tessa
+      - master
     subKeyValues:
     - Values:
+      - name: Braydon
+        remote:
+          name: origin
+          url: https://github.com/bdudley2/IslandSurvival.git
+        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
           url: https://github.com/bdudley2/IslandSurvival.git
         trackingBranch: 
-      - name: IS-18_drawableCanvas
+      - name: Tessa
         remote:
           name: origin
           url: https://github.com/bdudley2/IslandSurvival.git
         trackingBranch: 
-      - name: proto-1
+      - name: master
         remote:
           name: origin
           url: https://github.com/bdudley2/IslandSurvival.git

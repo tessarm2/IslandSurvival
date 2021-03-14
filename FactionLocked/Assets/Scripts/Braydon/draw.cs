@@ -8,21 +8,26 @@ public class draw : MonoBehaviour
     public GameObject square;
     public GameObject circle;
     public GameObject PathParent;
-    float speed = 0.05f;
-    private Vector2 screenBounds;
-    float dx;
-    float dy;
 
+    public float speed = 0.05f;
+    public float dx;
+    public float dy;
+
+    private Vector2 screenBounds;
+    private Quaternion circleRotation;
 
     // Start is called before the first frame update
     void Start()
     {
-
+        circleRotation = circle.transform.rotation;
     }
 
     // Update is called once per frame
     void Update()
     {
+        circle.transform.rotation = circleRotation;
+        circle.GetComponent<Rigidbody>().velocity = Vector3.zero;
+
         dx = Input.GetAxis("Horizontal") * speed;
         dy = Input.GetAxis("Vertical") * speed;
         circle.transform.Translate(dx, dy, 0.0f);
@@ -34,19 +39,6 @@ public class draw : MonoBehaviour
         {
             Transform squarePart = Instantiate(square.transform, circle.transform.position, circle.transform.rotation);
             squarePart.SetParent(PathParent.transform);
-        }
-    }
-
-    void OnCollisionEnter(Collision other)
-    {
-        if (other.gameObject.tag == "body")
-        {
-            dx = 0;
-            dy = 0;
-        }
-        if (other.gameObject.tag == "body")
-        {
-            Debug.Log("Inside Wall");
         }
     }
 }
