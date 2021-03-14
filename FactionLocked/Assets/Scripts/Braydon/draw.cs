@@ -23,13 +23,13 @@ public class draw : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-         dx = Input.GetAxis("Horizontal") * speed;
-         dy = Input.GetAxis("Vertical") * speed;
+        dx = Input.GetAxis("Horizontal") * speed;
+        dy = Input.GetAxis("Vertical") * speed;
         circle.transform.Translate(dx, dy, 0.0f);
-        Vector3 clampedPos = circle.transform.position;
-        clampedPos.x = Mathf.Clamp(clampedPos.x, -1.13f, 1.13f);
-        clampedPos.y = Mathf.Clamp(clampedPos.y, 2.25f, 3.35f);
-        circle.transform.position = clampedPos;
+        // Vector3 clampedPos = circle.transform.position;
+        // clampedPos.x = Mathf.Clamp(clampedPos.x, -1.13f, 1.13f);
+        // clampedPos.y = Mathf.Clamp(clampedPos.y, 2.25f, 3.35f);
+        // circle.transform.position = clampedPos;
         if (dx != 0.0f || dy != 0.0f)
         {
             Transform squarePart = Instantiate(square.transform, circle.transform.position, circle.transform.rotation);
@@ -43,6 +43,10 @@ public class draw : MonoBehaviour
         {
             dx = 0;
             dy = 0;
+        }
+        if (other.gameObject.tag == "body")
+        {
+            Debug.Log("Inside Wall");
         }
     }
 }

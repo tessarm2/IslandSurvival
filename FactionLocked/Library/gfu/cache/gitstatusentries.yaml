@@ -13,66 +13,86 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-13T15:24:26.978-06:00
+  lastUpdatedAtString: 2021-03-13T18:01:47.605-06:00
   initializedAtString: 2021-03-13T15:24:26.978-06:00
   entries:
-  - path: FactionLocked/Assets/Circle.png
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Circle.png
-    projectPath: Assets/Circle.png
+  - path: FactionLocked/Assets/circleCollision.cs
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/circleCollision.cs
+    projectPath: Assets/circleCollision.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Assets/Circle.png.meta
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Circle.png.meta
-    projectPath: Assets/Circle.png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/circleCollision.cs.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/circleCollision.cs.meta
+    projectPath: Assets/circleCollision.cs.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: FactionLocked/Assets/draw.cs
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/draw.cs
     projectPath: Assets/draw.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: FactionLocked/Assets/draw.cs.meta
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/draw.cs.meta
     projectPath: Assets/draw.cs.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: FactionLocked/Assets/Interact.cs
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Interact.cs
     projectPath: Assets/Interact.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: FactionLocked/Assets/Interact.cs.meta
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Interact.cs.meta
     projectPath: Assets/Interact.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FactionLocked/Assets/Materials_and_Textures/Mats/Grey.mat
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Mats/Grey.mat
-    projectPath: Assets/Materials_and_Textures/Mats/Grey.mat
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: FactionLocked/Assets/Materials_and_Textures/New Render Texture.renderTexture
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/New
+      Render Texture.renderTexture
+    projectPath: Assets/Materials_and_Textures/New Render Texture.renderTexture
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Assets/Materials_and_Textures/Mats/Grey.mat.meta
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Mats/Grey.mat.meta
-    projectPath: Assets/Materials_and_Textures/Mats/Grey.mat.meta
+  - path: FactionLocked/Assets/Materials_and_Textures/New Render Texture.renderTexture.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/New
+      Render Texture.renderTexture.meta
+    projectPath: Assets/Materials_and_Textures/New Render Texture.renderTexture.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Assets/Materials_and_Textures/Mats/Sky.mat
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Mats/Sky.mat
-    projectPath: Assets/Materials_and_Textures/Mats/Sky.mat
+  - path: FactionLocked/Assets/Materials_and_Textures/Sprites.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Sprites.meta
+    projectPath: Assets/Materials_and_Textures/Sprites.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Assets/Materials_and_Textures/Mats/Sky.mat.meta
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Mats/Sky.mat.meta
-    projectPath: Assets/Materials_and_Textures/Mats/Sky.mat.meta
+  - path: FactionLocked/Assets/Materials_and_Textures/Sprites/Circle.png
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Sprites/Circle.png
+    projectPath: Assets/Materials_and_Textures/Sprites/Circle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Materials_and_Textures/Sprites/Circle.png.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Sprites/Circle.png.meta
+    projectPath: Assets/Materials_and_Textures/Sprites/Circle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Materials_and_Textures/Sprites/Square.png
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Sprites/Square.png
+    projectPath: Assets/Materials_and_Textures/Sprites/Square.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Materials_and_Textures/Sprites/Square.png.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Materials_and_Textures/Sprites/Square.png.meta
+    projectPath: Assets/Materials_and_Textures/Sprites/Square.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -80,275 +100,503 @@ MonoBehaviour:
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/MouseLook.cs
     projectPath: Assets/MouseLook.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: FactionLocked/Assets/MouseLook.cs.meta
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/MouseLook.cs.meta
     projectPath: Assets/MouseLook.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: FactionLocked/Assets/MouseOver.cs
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/MouseOver.cs
     projectPath: Assets/MouseOver.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: FactionLocked/Assets/MouseOver.cs.meta
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/MouseOver.cs.meta
     projectPath: Assets/MouseOver.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: FactionLocked/Assets/PlayerMovement.cs
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/PlayerMovement.cs
     projectPath: Assets/PlayerMovement.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: FactionLocked/Assets/PlayerMovement.cs.meta
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/PlayerMovement.cs.meta
     projectPath: Assets/PlayerMovement.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FactionLocked/Assets/Scenes/Braydon/ProtoCanvasPaint.unity
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scenes/Braydon/ProtoCanvasPaint.unity
-    projectPath: Assets/Scenes/Braydon/ProtoCanvasPaint.unity
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: FactionLocked/Assets/Scenes/Braydon/ProtoCanvasPaint.unity.meta
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scenes/Braydon/ProtoCanvasPaint.unity.meta
-    projectPath: Assets/Scenes/Braydon/ProtoCanvasPaint.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Assets/Scenes/OldPrototypes/SampleScene.unity
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scenes/OldPrototypes/SampleScene.unity
-    projectPath: Assets/Scenes/OldPrototypes/SampleScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked/Assets/Scenes/tessaProto.unity
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scenes/tessaProto.unity
-    projectPath: Assets/Scenes/tessaProto.unity
+  - path: FactionLocked/Assets/Prefabs.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Prefabs.meta
+    projectPath: Assets/Prefabs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Assets/Scenes/tessaProto.unity.meta
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scenes/tessaProto.unity.meta
-    projectPath: Assets/Scenes/tessaProto.unity.meta
+  - path: FactionLocked/Assets/Prefabs/Circle.prefab
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Prefabs/Circle.prefab
+    projectPath: Assets/Prefabs/Circle.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Assets/Square.png
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Square.png
-    projectPath: Assets/Square.png
+  - path: FactionLocked/Assets/Prefabs/Circle.prefab.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Prefabs/Circle.prefab.meta
+    projectPath: Assets/Prefabs/Circle.prefab.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Assets/Square.png.meta
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Square.png.meta
-    projectPath: Assets/Square.png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scenes/braydonProtoMazeCollision1.unity
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scenes/braydonProtoMazeCollision1.unity
+    projectPath: Assets/Scenes/braydonProtoMazeCollision1.unity
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/ArtifactDB
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ArtifactDB
-    projectPath: Library/ArtifactDB
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scenes/braydonProtoMazeCollision1.unity.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scenes/braydonProtoMazeCollision1.unity.meta
+    projectPath: Assets/Scenes/braydonProtoMazeCollision1.unity.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FactionLocked/Library/Artifacts/0d/0d10f0cf102a02ee02835c614ce50f29
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/0d/0d10f0cf102a02ee02835c614ce50f29
-    projectPath: Library/Artifacts/0d/0d10f0cf102a02ee02835c614ce50f29
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Braydon.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Braydon.meta
+    projectPath: Assets/Scripts/Braydon.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/10/100aea2fa9b5d3d79436c5903e7d8850
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/10/100aea2fa9b5d3d79436c5903e7d8850
-    projectPath: Library/Artifacts/10/100aea2fa9b5d3d79436c5903e7d8850
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Braydon/draw.cs
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Braydon/draw.cs
+    projectPath: Assets/Scripts/Braydon/draw.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Braydon/draw.cs.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Braydon/draw.cs.meta
+    projectPath: Assets/Scripts/Braydon/draw.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa.meta
+    projectPath: Assets/Scripts/Tessa.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa/Interact.cs
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa/Interact.cs
+    projectPath: Assets/Scripts/Tessa/Interact.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa/Interact.cs.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa/Interact.cs.meta
+    projectPath: Assets/Scripts/Tessa/Interact.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa/MouseLook.cs
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa/MouseLook.cs
+    projectPath: Assets/Scripts/Tessa/MouseLook.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa/MouseLook.cs.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa/MouseLook.cs.meta
+    projectPath: Assets/Scripts/Tessa/MouseLook.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa/MouseOver.cs
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa/MouseOver.cs
+    projectPath: Assets/Scripts/Tessa/MouseOver.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa/MouseOver.cs.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa/MouseOver.cs.meta
+    projectPath: Assets/Scripts/Tessa/MouseOver.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa/PlayerMovement.cs
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa/PlayerMovement.cs
+    projectPath: Assets/Scripts/Tessa/PlayerMovement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Assets/Scripts/Tessa/PlayerMovement.cs.meta
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Assets/Scripts/Tessa/PlayerMovement.cs.meta
+    projectPath: Assets/Scripts/Tessa/PlayerMovement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/05/0531d0a5bc390754776b723284a291a2
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/05/0531d0a5bc390754776b723284a291a2
+    projectPath: Library/Artifacts/05/0531d0a5bc390754776b723284a291a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/08/080f693a9044c6e8312b61af28e61df9
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/08/080f693a9044c6e8312b61af28e61df9
+    projectPath: Library/Artifacts/08/080f693a9044c6e8312b61af28e61df9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: FactionLocked/Library/Artifacts/17/1790f0ac3a58c6a34366e76028f2c34c
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/17/1790f0ac3a58c6a34366e76028f2c34c
     projectPath: Library/Artifacts/17/1790f0ac3a58c6a34366e76028f2c34c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/1e/1e4b8f847351adbdba8a61943642c174
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/1e/1e4b8f847351adbdba8a61943642c174
-    projectPath: Library/Artifacts/1e/1e4b8f847351adbdba8a61943642c174
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/28/282c240ac4f80dfef38326054ab414c1
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/28/282c240ac4f80dfef38326054ab414c1
-    projectPath: Library/Artifacts/28/282c240ac4f80dfef38326054ab414c1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/2c/2cd189eab7b137bf6dcb185e447501fe
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/2c/2cd189eab7b137bf6dcb185e447501fe
-    projectPath: Library/Artifacts/2c/2cd189eab7b137bf6dcb185e447501fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/2d/2d30bd61cd5ea1d796c30010c221641a
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/2d/2d30bd61cd5ea1d796c30010c221641a
-    projectPath: Library/Artifacts/2d/2d30bd61cd5ea1d796c30010c221641a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/2f/2f0df4d8ac942ee12807b14b7f1d5a6e
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/2f/2f0df4d8ac942ee12807b14b7f1d5a6e
-    projectPath: Library/Artifacts/2f/2f0df4d8ac942ee12807b14b7f1d5a6e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/2f/2f2db4c9de770f7043d84671cce3bd3b
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/2f/2f2db4c9de770f7043d84671cce3bd3b
-    projectPath: Library/Artifacts/2f/2f2db4c9de770f7043d84671cce3bd3b
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked/Library/Artifacts/2f/2fbd530c5dda6a258274260ea8cb03d6
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/2f/2fbd530c5dda6a258274260ea8cb03d6
-    projectPath: Library/Artifacts/2f/2fbd530c5dda6a258274260ea8cb03d6
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/19/1969312f5e7b990a8b352a93bb882c21
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/19/1969312f5e7b990a8b352a93bb882c21
+    projectPath: Library/Artifacts/19/1969312f5e7b990a8b352a93bb882c21
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Library/Artifacts/3e/3ecc5a214e4a1c4d88e00caea68e4f0b
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/3e/3ecc5a214e4a1c4d88e00caea68e4f0b
-    projectPath: Library/Artifacts/3e/3ecc5a214e4a1c4d88e00caea68e4f0b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/45/45becb2257ebadb13baf7cf42cbe8c79
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/45/45becb2257ebadb13baf7cf42cbe8c79
-    projectPath: Library/Artifacts/45/45becb2257ebadb13baf7cf42cbe8c79
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked/Library/Artifacts/4c/4c517cf31f76d34dc2e53213ccc9b48f
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/4c/4c517cf31f76d34dc2e53213ccc9b48f
-    projectPath: Library/Artifacts/4c/4c517cf31f76d34dc2e53213ccc9b48f
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked/Library/Artifacts/5a/5abe0b3fea49594362131db1adee2687
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/5a/5abe0b3fea49594362131db1adee2687
-    projectPath: Library/Artifacts/5a/5abe0b3fea49594362131db1adee2687
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked/Library/Artifacts/5e/5e70b262bd1bb5a920be0c7d00061a38
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/5e/5e70b262bd1bb5a920be0c7d00061a38
-    projectPath: Library/Artifacts/5e/5e70b262bd1bb5a920be0c7d00061a38
+  - path: FactionLocked/Library/Artifacts/1e/1e20bffcd081216e832bded994bf2c35
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/1e/1e20bffcd081216e832bded994bf2c35
+    projectPath: Library/Artifacts/1e/1e20bffcd081216e832bded994bf2c35
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Library/Artifacts/6a/6a76417b847c232b497b1388ba96158b
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/6a/6a76417b847c232b497b1388ba96158b
-    projectPath: Library/Artifacts/6a/6a76417b847c232b497b1388ba96158b
+  - path: FactionLocked/Library/Artifacts/2d/2db2178ea05d436e9119d0857ae023b6
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/2d/2db2178ea05d436e9119d0857ae023b6
+    projectPath: Library/Artifacts/2d/2db2178ea05d436e9119d0857ae023b6
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/6d/6dbf488fc9b6b9503e30102e70abd349
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/6d/6dbf488fc9b6b9503e30102e70abd349
-    projectPath: Library/Artifacts/6d/6dbf488fc9b6b9503e30102e70abd349
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/2f/2f8ae1488f3127313a7f4a80f2c80d65
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/2f/2f8ae1488f3127313a7f4a80f2c80d65
+    projectPath: Library/Artifacts/2f/2f8ae1488f3127313a7f4a80f2c80d65
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/76/767d375102befacfc2602f6a9dcc4f13
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/76/767d375102befacfc2602f6a9dcc4f13
-    projectPath: Library/Artifacts/76/767d375102befacfc2602f6a9dcc4f13
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/3a/3a69cc21961807335af580f9af655ca5
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/3a/3a69cc21961807335af580f9af655ca5
+    projectPath: Library/Artifacts/3a/3a69cc21961807335af580f9af655ca5
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/77/77c3c35d03681423a056b228eaec7f33
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/77/77c3c35d03681423a056b228eaec7f33
-    projectPath: Library/Artifacts/77/77c3c35d03681423a056b228eaec7f33
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/3e/3ef8090eb302ca0ba30facb702197d60
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/3e/3ef8090eb302ca0ba30facb702197d60
+    projectPath: Library/Artifacts/3e/3ef8090eb302ca0ba30facb702197d60
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/a8/a89779ccaa0e4e5933cc2147fecfa40b
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/a8/a89779ccaa0e4e5933cc2147fecfa40b
-    projectPath: Library/Artifacts/a8/a89779ccaa0e4e5933cc2147fecfa40b
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/43/431f43f2f1aa574c7bdfaee0a750c26e
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/43/431f43f2f1aa574c7bdfaee0a750c26e
+    projectPath: Library/Artifacts/43/431f43f2f1aa574c7bdfaee0a750c26e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/44/44edc6dc4a62283c89219d5808968e50
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/44/44edc6dc4a62283c89219d5808968e50
+    projectPath: Library/Artifacts/44/44edc6dc4a62283c89219d5808968e50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/49/4932b718c8e2f11c9b02dbcf705a678d
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/49/4932b718c8e2f11c9b02dbcf705a678d
+    projectPath: Library/Artifacts/49/4932b718c8e2f11c9b02dbcf705a678d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/49/49738c300f4457c405863857c27c0e71
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/49/49738c300f4457c405863857c27c0e71
+    projectPath: Library/Artifacts/49/49738c300f4457c405863857c27c0e71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/4d/4d7046b5cd66b01a61a2c9184c8977fd
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/4d/4d7046b5cd66b01a61a2c9184c8977fd
+    projectPath: Library/Artifacts/4d/4d7046b5cd66b01a61a2c9184c8977fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/51/51e6cc5882d24b2fd75a4f94db0d4913
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/51/51e6cc5882d24b2fd75a4f94db0d4913
+    projectPath: Library/Artifacts/51/51e6cc5882d24b2fd75a4f94db0d4913
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/52/52801e8af470b9a1767148aff628b1a3
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/52/52801e8af470b9a1767148aff628b1a3
+    projectPath: Library/Artifacts/52/52801e8af470b9a1767148aff628b1a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/53/538d4eaa0ac4310b9a1d42908169304d
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/53/538d4eaa0ac4310b9a1d42908169304d
+    projectPath: Library/Artifacts/53/538d4eaa0ac4310b9a1d42908169304d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/57/5797ad5d4678cc84a73efb36a89d04a0
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/57/5797ad5d4678cc84a73efb36a89d04a0
+    projectPath: Library/Artifacts/57/5797ad5d4678cc84a73efb36a89d04a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/61/61970449b8ff61a4a6838ad4d1255ab0
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/61/61970449b8ff61a4a6838ad4d1255ab0
+    projectPath: Library/Artifacts/61/61970449b8ff61a4a6838ad4d1255ab0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/69/69b482b2dda051cecb2603653cc2c8af
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/69/69b482b2dda051cecb2603653cc2c8af
+    projectPath: Library/Artifacts/69/69b482b2dda051cecb2603653cc2c8af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/78/7822a71ad1212fc7962cddadabb61004
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/78/7822a71ad1212fc7962cddadabb61004
+    projectPath: Library/Artifacts/78/7822a71ad1212fc7962cddadabb61004
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/7a/7ae94f6836d0cb8b6ec9b9bfd27079a7
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/7a/7ae94f6836d0cb8b6ec9b9bfd27079a7
+    projectPath: Library/Artifacts/7a/7ae94f6836d0cb8b6ec9b9bfd27079a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/7c/7c2d6ac026d3994ac66c406be32bf7ec
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/7c/7c2d6ac026d3994ac66c406be32bf7ec
+    projectPath: Library/Artifacts/7c/7c2d6ac026d3994ac66c406be32bf7ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/7e/7ee564017d50c6dc3e9dbe8c4867d3ce
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/7e/7ee564017d50c6dc3e9dbe8c4867d3ce
+    projectPath: Library/Artifacts/7e/7ee564017d50c6dc3e9dbe8c4867d3ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/86/86daee0ca366dfc029cd6e711862eaf9
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/86/86daee0ca366dfc029cd6e711862eaf9
+    projectPath: Library/Artifacts/86/86daee0ca366dfc029cd6e711862eaf9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/87/8783745db28c5379f9a355144361baf9
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/87/8783745db28c5379f9a355144361baf9
+    projectPath: Library/Artifacts/87/8783745db28c5379f9a355144361baf9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/8b/8bd4fb65cd311756c06584cfd8dfe360
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/8b/8bd4fb65cd311756c06584cfd8dfe360
+    projectPath: Library/Artifacts/8b/8bd4fb65cd311756c06584cfd8dfe360
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/90/9069a3393ad420319044806244394987
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/90/9069a3393ad420319044806244394987
+    projectPath: Library/Artifacts/90/9069a3393ad420319044806244394987
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/97/97f016016f79b9e6d4fd994a74ec66b3
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/97/97f016016f79b9e6d4fd994a74ec66b3
+    projectPath: Library/Artifacts/97/97f016016f79b9e6d4fd994a74ec66b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/98/9855bcc46bfe895c2772d59644e37b63
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/98/9855bcc46bfe895c2772d59644e37b63
+    projectPath: Library/Artifacts/98/9855bcc46bfe895c2772d59644e37b63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/99/9941fe39a3168d80a91d82ba9ca9f6e2
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/99/9941fe39a3168d80a91d82ba9ca9f6e2
+    projectPath: Library/Artifacts/99/9941fe39a3168d80a91d82ba9ca9f6e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/9c/9c5d168f14c29658a4d57c084a8cc8c2
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/9c/9c5d168f14c29658a4d57c084a8cc8c2
+    projectPath: Library/Artifacts/9c/9c5d168f14c29658a4d57c084a8cc8c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/9c/9c8a9d31e2c29b8bfdb3c54406617aa1
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/9c/9c8a9d31e2c29b8bfdb3c54406617aa1
+    projectPath: Library/Artifacts/9c/9c8a9d31e2c29b8bfdb3c54406617aa1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/a2/a203bd3b6501dff51880095a4f87e844
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/a2/a203bd3b6501dff51880095a4f87e844
+    projectPath: Library/Artifacts/a2/a203bd3b6501dff51880095a4f87e844
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/a5/a5e651b8340e5c90aafd36a6ceca2376
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/a5/a5e651b8340e5c90aafd36a6ceca2376
+    projectPath: Library/Artifacts/a5/a5e651b8340e5c90aafd36a6ceca2376
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/a7/a77f5c8a528f8c8ebc5c1a7f3789143c
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/a7/a77f5c8a528f8c8ebc5c1a7f3789143c
+    projectPath: Library/Artifacts/a7/a77f5c8a528f8c8ebc5c1a7f3789143c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/a8/a8a30639c12a0f128c3aadca6ce7524b
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/a8/a8a30639c12a0f128c3aadca6ce7524b
+    projectPath: Library/Artifacts/a8/a8a30639c12a0f128c3aadca6ce7524b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: FactionLocked/Library/Artifacts/a9/a9331528673b35ace6abe22fd78225e4
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/a9/a9331528673b35ace6abe22fd78225e4
     projectPath: Library/Artifacts/a9/a9331528673b35ace6abe22fd78225e4
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/bd/bd37785af173ae43abf663afc445e563
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/bd/bd37785af173ae43abf663afc445e563
-    projectPath: Library/Artifacts/bd/bd37785af173ae43abf663afc445e563
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/be/be9d24c4b8f226b987cdcc23268ca317
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/be/be9d24c4b8f226b987cdcc23268ca317
+    projectPath: Library/Artifacts/be/be9d24c4b8f226b987cdcc23268ca317
     originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: FactionLocked/Library/Artifacts/c8/c8ef56e3c3e2b6b89d20d388c3c9ec80
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/c8/c8ef56e3c3e2b6b89d20d388c3c9ec80
-    projectPath: Library/Artifacts/c8/c8ef56e3c3e2b6b89d20d388c3c9ec80
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/c0/c0738a26313f562cba9b81ba78803445
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/c0/c0738a26313f562cba9b81ba78803445
+    projectPath: Library/Artifacts/c0/c0738a26313f562cba9b81ba78803445
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/c2/c2b92c3ece3b93d5e22ffc573fd09fcc
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/c2/c2b92c3ece3b93d5e22ffc573fd09fcc
+    projectPath: Library/Artifacts/c2/c2b92c3ece3b93d5e22ffc573fd09fcc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/c6/c69f743f6288db866883cf7e679317a4
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/c6/c69f743f6288db866883cf7e679317a4
+    projectPath: Library/Artifacts/c6/c69f743f6288db866883cf7e679317a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: FactionLocked/Library/Artifacts/cb/cbe1e200b4b0e003a37532f6e248f95b
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/cb/cbe1e200b4b0e003a37532f6e248f95b
     projectPath: Library/Artifacts/cb/cbe1e200b4b0e003a37532f6e248f95b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/cb/cbf7d37c20814ea9bbbb67d907bcca41
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/cb/cbf7d37c20814ea9bbbb67d907bcca41
+    projectPath: Library/Artifacts/cb/cbf7d37c20814ea9bbbb67d907bcca41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/cd/cdaae602a725da847104ad520168fb91
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/cd/cdaae602a725da847104ad520168fb91
+    projectPath: Library/Artifacts/cd/cdaae602a725da847104ad520168fb91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/cf/cff98dbc410d4d541f938c28f4b7721a
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/cf/cff98dbc410d4d541f938c28f4b7721a
+    projectPath: Library/Artifacts/cf/cff98dbc410d4d541f938c28f4b7721a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: FactionLocked/Library/Artifacts/d0/d0ecefd59b23e4ebf28105104eaba208
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/d0/d0ecefd59b23e4ebf28105104eaba208
     projectPath: Library/Artifacts/d0/d0ecefd59b23e4ebf28105104eaba208
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/e7/e73280af1ae83442d448a4a613c37dfe
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/e7/e73280af1ae83442d448a4a613c37dfe
-    projectPath: Library/Artifacts/e7/e73280af1ae83442d448a4a613c37dfe
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/da/da910c91c241088e49657649668ee715
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/da/da910c91c241088e49657649668ee715
+    projectPath: Library/Artifacts/da/da910c91c241088e49657649668ee715
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/e7/e7e7c86e6c9912d08f31c8eabfbb48d1
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/e7/e7e7c86e6c9912d08f31c8eabfbb48d1
-    projectPath: Library/Artifacts/e7/e7e7c86e6c9912d08f31c8eabfbb48d1
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/e0/e06574ca8ffa98a42de57b559fb6bd85
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/e0/e06574ca8ffa98a42de57b559fb6bd85
+    projectPath: Library/Artifacts/e0/e06574ca8ffa98a42de57b559fb6bd85
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/e5/e5a83248bf48253b3ee88bc4088104a4
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/e5/e5a83248bf48253b3ee88bc4088104a4
+    projectPath: Library/Artifacts/e5/e5a83248bf48253b3ee88bc4088104a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/e7/e7354895281aeacc088dd95b6abac266
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/e7/e7354895281aeacc088dd95b6abac266
+    projectPath: Library/Artifacts/e7/e7354895281aeacc088dd95b6abac266
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/e8/e8d0a35aaed8217efeada1c2bdfafe3b
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/e8/e8d0a35aaed8217efeada1c2bdfafe3b
+    projectPath: Library/Artifacts/e8/e8d0a35aaed8217efeada1c2bdfafe3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: FactionLocked/Library/Artifacts/ea/ea0cccf2f8316addf8cb573d9eb2bf4b
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/ea/ea0cccf2f8316addf8cb573d9eb2bf4b
     projectPath: Library/Artifacts/ea/ea0cccf2f8316addf8cb573d9eb2bf4b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/Artifacts/f8/f88b36178180d4d7e2e7ba885cb89eda
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/f8/f88b36178180d4d7e2e7ba885cb89eda
-    projectPath: Library/Artifacts/f8/f88b36178180d4d7e2e7ba885cb89eda
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/f6/f6ea99322acb7fca83588a473d7912a8
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/f6/f6ea99322acb7fca83588a473d7912a8
+    projectPath: Library/Artifacts/f6/f6ea99322acb7fca83588a473d7912a8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Library/Artifacts/f9/f97411a3ce8c841f3446e5fc58ead38d
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/f9/f97411a3ce8c841f3446e5fc58ead38d
-    projectPath: Library/Artifacts/f9/f97411a3ce8c841f3446e5fc58ead38d
+  - path: FactionLocked/Library/Artifacts/f8/f863e4925631078694a02fef74ca96d8
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/f8/f863e4925631078694a02fef74ca96d8
+    projectPath: Library/Artifacts/f8/f863e4925631078694a02fef74ca96d8
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Library/EditorInstance.json
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/f8/f8922a49de6c4c3b6029c880efb40741
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/f8/f8922a49de6c4c3b6029c880efb40741
+    projectPath: Library/Artifacts/f8/f8922a49de6c4c3b6029c880efb40741
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/Artifacts/fd/fd6d39a06d7097173b1be2e5aeb90368
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/Artifacts/fd/fd6d39a06d7097173b1be2e5aeb90368
+    projectPath: Library/Artifacts/fd/fd6d39a06d7097173b1be2e5aeb90368
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked/Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
+  - path: FactionLocked/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/InspectorExpandedItems.asset
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -364,15 +612,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked/Library/ShaderCache/2/241b017fc2f34e6a356b2fe582efd74a.bin
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ShaderCache/2/241b017fc2f34e6a356b2fe582efd74a.bin
-    projectPath: Library/ShaderCache/2/241b017fc2f34e6a356b2fe582efd74a.bin
+  - path: FactionLocked/Library/ShaderCache/1/1d3235b0e1dbe5e3f1e231d1313cf30a.bin
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ShaderCache/1/1d3235b0e1dbe5e3f1e231d1313cf30a.bin
+    projectPath: Library/ShaderCache/1/1d3235b0e1dbe5e3f1e231d1313cf30a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Library/ShaderCache/b/b04ece5971bdd1291c63a51852084724.bin
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ShaderCache/b/b04ece5971bdd1291c63a51852084724.bin
-    projectPath: Library/ShaderCache/b/b04ece5971bdd1291c63a51852084724.bin
+  - path: FactionLocked/Library/ShaderCache/3/324066390ada3047a99725160395f5a4.bin
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ShaderCache/3/324066390ada3047a99725160395f5a4.bin
+    projectPath: Library/ShaderCache/3/324066390ada3047a99725160395f5a4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/ShaderCache/9/9ece3d1dea76bdfca86bf7e96886662d.bin
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ShaderCache/9/9ece3d1dea76bdfca86bf7e96886662d.bin
+    projectPath: Library/ShaderCache/9/9ece3d1dea76bdfca86bf7e96886662d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/ShaderCache/a/a0a02872c7817cb8b26a0afec8a2dd9d.bin
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ShaderCache/a/a0a02872c7817cb8b26a0afec8a2dd9d.bin
+    projectPath: Library/ShaderCache/a/a0a02872c7817cb8b26a0afec8a2dd9d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/ShaderCache/c/cf4bfe8962189abfa3ceaaf7f1699073.bin
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ShaderCache/c/cf4bfe8962189abfa3ceaaf7f1699073.bin
+    projectPath: Library/ShaderCache/c/cf4bfe8962189abfa3ceaaf7f1699073.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/ShaderCache/e/e7a445b81f881c80413619598b6cbc42.bin
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/ShaderCache/e/e7a445b81f881c80413619598b6cbc42.bin
+    projectPath: Library/ShaderCache/e/e7a445b81f881c80413619598b6cbc42.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -388,15 +660,87 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked/Library/SourceAssetDB
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/SourceAssetDB
-    projectPath: Library/SourceAssetDB
+  - path: FactionLocked/Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FactionLocked/Library/SourceAssetDB-lock
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/SourceAssetDB-lock
-    projectPath: Library/SourceAssetDB-lock
+  - path: FactionLocked/Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/shadercompiler-UnityShaderCompiler4.log
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/shadercompiler-UnityShaderCompiler4.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/shadercompiler-UnityShaderCompiler5.log
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/shadercompiler-UnityShaderCompiler5.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/shadercompiler-UnityShaderCompiler6.log
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/shadercompiler-UnityShaderCompiler6.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/shadercompiler-UnityShaderCompiler7.log
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/shadercompiler-UnityShaderCompiler7.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/StateCache/Hierarchy/febc75-a0eaf604b689c45de9.json
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/StateCache/Hierarchy/febc75-a0eaf604b689c45de9.json
+    projectPath: Library/StateCache/Hierarchy/febc75-a0eaf604b689c45de9.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/StateCache/Hierarchy/febc75-c565782ccfa45483d8.json
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/StateCache/Hierarchy/febc75-c565782ccfa45483d8.json
+    projectPath: Library/StateCache/Hierarchy/febc75-c565782ccfa45483d8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/StateCache/Hierarchy/febc75-mainStage.json
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/StateCache/Hierarchy/febc75-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/febc75-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/Library/StateCache/SceneView/0c4b7a-a0eaf604b689c45de9.json
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/StateCache/SceneView/0c4b7a-a0eaf604b689c45de9.json
+    projectPath: Library/StateCache/SceneView/0c4b7a-a0eaf604b689c45de9.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/StateCache/SceneView/0c4b7a-c565782ccfa45483d8.json
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/StateCache/SceneView/0c4b7a-c565782ccfa45483d8.json
+    projectPath: Library/StateCache/SceneView/0c4b7a-c565782ccfa45483d8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Library/StateCache/SceneView/0c4b7a-mainStage.json
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Library/StateCache/SceneView/0c4b7a-mainStage.json
+    projectPath: Library/StateCache/SceneView/0c4b7a-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FactionLocked/ProjectSettings/QualitySettings.asset
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -404,125 +748,113 @@ MonoBehaviour:
     fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-01494ce881c23453097e6b178ccdfdf4
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-01494ce881c23453097e6b178ccdfdf4
-    projectPath: Temp/UnityTempFile-01494ce881c23453097e6b178ccdfdf4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-2adffad54d104492d89416d73d8f0e3c
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-2adffad54d104492d89416d73d8f0e3c
-    projectPath: Temp/UnityTempFile-2adffad54d104492d89416d73d8f0e3c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-372ead8e0c8b94c5aa7f722fdecb07af
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-372ead8e0c8b94c5aa7f722fdecb07af
-    projectPath: Temp/UnityTempFile-372ead8e0c8b94c5aa7f722fdecb07af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-3a9a3ab19d756498eb60637d316ed8da
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-3a9a3ab19d756498eb60637d316ed8da
-    projectPath: Temp/UnityTempFile-3a9a3ab19d756498eb60637d316ed8da
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-4302f51a915d441c5b876ec13deacf3d
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-4302f51a915d441c5b876ec13deacf3d
-    projectPath: Temp/UnityTempFile-4302f51a915d441c5b876ec13deacf3d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-435255f8de9554d8f8f42d82fa5a0872
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-435255f8de9554d8f8f42d82fa5a0872
-    projectPath: Temp/UnityTempFile-435255f8de9554d8f8f42d82fa5a0872
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-5e919f48c145442e0826f61a75a91d97
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-5e919f48c145442e0826f61a75a91d97
-    projectPath: Temp/UnityTempFile-5e919f48c145442e0826f61a75a91d97
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-5f1311239ebe14d74914ee59f764a5f8
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-5f1311239ebe14d74914ee59f764a5f8
-    projectPath: Temp/UnityTempFile-5f1311239ebe14d74914ee59f764a5f8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-664d1838c3f964eca991a842b04924ff
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-664d1838c3f964eca991a842b04924ff
-    projectPath: Temp/UnityTempFile-664d1838c3f964eca991a842b04924ff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-66518dd022c0947e487058be32395ad6
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-66518dd022c0947e487058be32395ad6
-    projectPath: Temp/UnityTempFile-66518dd022c0947e487058be32395ad6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-6b00b47eb41374ae1a6670f6138ee031
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-6b00b47eb41374ae1a6670f6138ee031
-    projectPath: Temp/UnityTempFile-6b00b47eb41374ae1a6670f6138ee031
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-74a8b555914004fe7bc9ced2affcf51e
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-74a8b555914004fe7bc9ced2affcf51e
-    projectPath: Temp/UnityTempFile-74a8b555914004fe7bc9ced2affcf51e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-7a608a3cee92f4f579e8f3f599730cfa
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-7a608a3cee92f4f579e8f3f599730cfa
-    projectPath: Temp/UnityTempFile-7a608a3cee92f4f579e8f3f599730cfa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-86268c8f0d60b4ff1b4dce61d4f9c1ea
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-86268c8f0d60b4ff1b4dce61d4f9c1ea
-    projectPath: Temp/UnityTempFile-86268c8f0d60b4ff1b4dce61d4f9c1ea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-87f08a8f891a24a42bd56120b3216248
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-87f08a8f891a24a42bd56120b3216248
-    projectPath: Temp/UnityTempFile-87f08a8f891a24a42bd56120b3216248
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-9d5ac92aeb55d44ab8da6d4f4d5873ba
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-9d5ac92aeb55d44ab8da6d4f4d5873ba
-    projectPath: Temp/UnityTempFile-9d5ac92aeb55d44ab8da6d4f4d5873ba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-9d5f0cc35ecd84bc3afd29d11fa9ee3f
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-9d5f0cc35ecd84bc3afd29d11fa9ee3f
-    projectPath: Temp/UnityTempFile-9d5f0cc35ecd84bc3afd29d11fa9ee3f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-9f1767c1d3b1b4ffa827b7ecb441c946
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-9f1767c1d3b1b4ffa827b7ecb441c946
-    projectPath: Temp/UnityTempFile-9f1767c1d3b1b4ffa827b7ecb441c946
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-044d036f18701464287e0391bccb377e
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-044d036f18701464287e0391bccb377e
+    projectPath: Temp/UnityTempFile-044d036f18701464287e0391bccb377e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FactionLocked/Temp/UnityTempFile-b6503ed4de6bb4c91bd2171d0f71071b
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-b6503ed4de6bb4c91bd2171d0f71071b
-    projectPath: Temp/UnityTempFile-b6503ed4de6bb4c91bd2171d0f71071b
+  - path: FactionLocked/Temp/UnityTempFile-07d61270135b440908f182ad420b36e9
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-07d61270135b440908f182ad420b36e9
+    projectPath: Temp/UnityTempFile-07d61270135b440908f182ad420b36e9
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: FactionLocked/Temp/UnityTempFile-bfbc9ccb6dabb4e08a0a5ba6d65b4595
-    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-bfbc9ccb6dabb4e08a0a5ba6d65b4595
-    projectPath: Temp/UnityTempFile-bfbc9ccb6dabb4e08a0a5ba6d65b4595
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-11257e66bb91a4b82bc839f10e5db909
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-11257e66bb91a4b82bc839f10e5db909
+    projectPath: Temp/UnityTempFile-11257e66bb91a4b82bc839f10e5db909
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-261259a6afcf54c67bdf8097fb8f7574
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-261259a6afcf54c67bdf8097fb8f7574
+    projectPath: Temp/UnityTempFile-261259a6afcf54c67bdf8097fb8f7574
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-2b763ff62b1694438b3b940502b791c7
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-2b763ff62b1694438b3b940502b791c7
+    projectPath: Temp/UnityTempFile-2b763ff62b1694438b3b940502b791c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-328c15a645d10433ab7987d452285854
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-328c15a645d10433ab7987d452285854
+    projectPath: Temp/UnityTempFile-328c15a645d10433ab7987d452285854
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-35664641426fa4147bd240d1ea27e470
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-35664641426fa4147bd240d1ea27e470
+    projectPath: Temp/UnityTempFile-35664641426fa4147bd240d1ea27e470
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-3bdd67d6524bd4acf8e0f0ec750c77c1
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-3bdd67d6524bd4acf8e0f0ec750c77c1
+    projectPath: Temp/UnityTempFile-3bdd67d6524bd4acf8e0f0ec750c77c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-6354478ee717948d3b30cbaffe5ec04d
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-6354478ee717948d3b30cbaffe5ec04d
+    projectPath: Temp/UnityTempFile-6354478ee717948d3b30cbaffe5ec04d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-932f22364abe84f6bb219d2e4adcce49
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-932f22364abe84f6bb219d2e4adcce49
+    projectPath: Temp/UnityTempFile-932f22364abe84f6bb219d2e4adcce49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-9d9072e5eb2ef44959d1946835e012dd
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-9d9072e5eb2ef44959d1946835e012dd
+    projectPath: Temp/UnityTempFile-9d9072e5eb2ef44959d1946835e012dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-a349ad64a27084dd99daeed7126f1f35
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-a349ad64a27084dd99daeed7126f1f35
+    projectPath: Temp/UnityTempFile-a349ad64a27084dd99daeed7126f1f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-a4d0fceaaa9f647bfac8b698b11c64ee
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-a4d0fceaaa9f647bfac8b698b11c64ee
+    projectPath: Temp/UnityTempFile-a4d0fceaaa9f647bfac8b698b11c64ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-b6137c2f09d6141b7a51367fcb704653
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-b6137c2f09d6141b7a51367fcb704653
+    projectPath: Temp/UnityTempFile-b6137c2f09d6141b7a51367fcb704653
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-b682c946b40934a4e991aaf7429648b6
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-b682c946b40934a4e991aaf7429648b6
+    projectPath: Temp/UnityTempFile-b682c946b40934a4e991aaf7429648b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-bbc48502dff50482a8b86164dfc37b18
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-bbc48502dff50482a8b86164dfc37b18
+    projectPath: Temp/UnityTempFile-bbc48502dff50482a8b86164dfc37b18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-c48bb535a72d74b8a94219910ceea393
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-c48bb535a72d74b8a94219910ceea393
+    projectPath: Temp/UnityTempFile-c48bb535a72d74b8a94219910ceea393
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FactionLocked/Temp/UnityTempFile-fd72bbe761f324f3e85c38bca76fe6c4
+    fullPath: /Users/braydon/Desktop/u2/IslandSurvival/FactionLocked/Temp/UnityTempFile-fd72bbe761f324f3e85c38bca76fe6c4
+    projectPath: Temp/UnityTempFile-fd72bbe761f324f3e85c38bca76fe6c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
