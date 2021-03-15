@@ -41,7 +41,7 @@ public class VolumeManager : MonoBehaviour
                 loopMusic.volume -= 0.1f;
                 savedAudioVol = loopMusic.volume;
             }
-        } else if (Input.GetKeyDown(KeyCode.K) && !tmproMuted.enabled) {
+        } else if (Input.GetKeyDown(KeyCode.L) && !tmproMuted.enabled) {
             if (loopMusic.volume <= 0.9f) 
             {
                 loopMusic.volume += 0.1f; 

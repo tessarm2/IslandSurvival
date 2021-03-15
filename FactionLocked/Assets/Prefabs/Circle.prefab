@@ -130,3 +130,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 834575c32eb95409ea3f4cb8b08ec9d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  solveTextObj: {fileID: 0}

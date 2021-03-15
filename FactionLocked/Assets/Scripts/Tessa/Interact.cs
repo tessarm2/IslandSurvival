@@ -7,22 +7,33 @@ public class Interact : MonoBehaviour
 
     bool inRange = false;
     public Behaviour halo;
-    public GameObject canvas;
+    public GameObject mazeCanvas;
+    public GameObject puzzleCam;
+    public GameObject playerBody;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        playerBody.SetActive(true);
+        puzzleCam.SetActive(false);
+        mazeCanvas.SetActive(false);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && inRange)
+        // 3D player to puzzle
+        if (Input.GetKeyDown(KeyCode.E) && inRange && playerBody.activeSelf)
         {
+            swapEnabled();
+            Debug.Log("User interacted with puzzle");
+        }
 
-            //instantiate new canvas prefab
-            Debug.Log("User interacted with object");
+        // puzzle to 3D player
+        if (Input.GetKeyDown(KeyCode.X) && inRange && !playerBody.activeSelf)
+        {
+            swapEnabled();
+            Debug.Log("User exited the puzzle");
         }
     }
 
@@ -30,11 +41,8 @@ public class Interact : MonoBehaviour
     {
         if(other.gameObject.tag == "Player")
         {
-
             inRange = true;
             halo.enabled = true;
-            canvas.SetActive(true);
-
         }
     }
     void OnTriggerExit(Collider other)
@@ -43,7 +51,12 @@ public class Interact : MonoBehaviour
         {
             inRange = false;
             halo.enabled = false;
-            canvas.SetActive(false);
         }
+    }
+
+    void swapEnabled() {
+        playerBody.SetActive(!playerBody.activeSelf);
+        puzzleCam.SetActive(!puzzleCam.activeSelf);
+        mazeCanvas.SetActive(!mazeCanvas.activeSelf);
     }
 }
