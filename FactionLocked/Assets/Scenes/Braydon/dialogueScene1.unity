@@ -4304,7 +4304,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speakerDisplay: {fileID: 1191930490}
   textDisplay: {fileID: 337144607}
-  nextDisplay: {fileID: 0}
+  nextDisplay: {fileID: 1233740321}
   sentences:
   - 'Thoughts: You Wake up on a beach. You have no idea where you are. You look beside
     you and notice your dad is passed out in the sand'
