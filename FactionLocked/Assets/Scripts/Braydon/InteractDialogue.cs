@@ -6,29 +6,24 @@ public class InteractDialogue : MonoBehaviour
 {
 
     bool inRange = false;
-    bool outRange = false;
+    // bool outRange = false;
     public Behaviour halo;
     public GameObject dialogueCanvas;
     public GameObject dialogueManager;
-    // public GameObject puzzleCam;
-    // public GameObject playerBody;
 
     // Start is called before the first frame update
     void Start()
     {
-        // playerBody.SetActive(true);
-        // puzzleCam.SetActive(false);
         dialogueCanvas.SetActive(false);
     }
 
     // Update is called once per frame
     void Update()
     {
-        // 3D player to dialogue
+        // pull up dialogue box
         if (Input.GetKeyDown(KeyCode.E) && inRange && !dialogueCanvas.activeSelf)
         {
-            // outRange = false;
-            SwapEnabled();
+            dialogueCanvas.SetActive(true);
             dialogueManager.GetComponent<Dialogue>().ResetDialogue();
             Debug.Log("User interacted with a character. Brings up Dialogue Box");
         }
@@ -36,8 +31,7 @@ public class InteractDialogue : MonoBehaviour
         // leave dialogue box
         if (Input.GetKeyDown(KeyCode.X))
         {
-            dialogueManager.GetComponent<Dialogue>().ResetDialogue();
-            SwapEnabled();
+            dialogueCanvas.SetActive(false);
             Debug.Log("User finished the interaction with the character");
         }
     }
@@ -68,11 +62,5 @@ public class InteractDialogue : MonoBehaviour
         //     }
         // }
         
-    }
-
-    void SwapEnabled() {
-        // playerBody.SetActive(!playerBody.activeSelf);
-        // puzzleCam.SetActive(!puzzleCam.activeSelf);
-        dialogueCanvas.SetActive(!dialogueCanvas.activeSelf);
     }
 }

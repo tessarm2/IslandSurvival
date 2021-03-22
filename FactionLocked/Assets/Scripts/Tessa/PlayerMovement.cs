@@ -16,6 +16,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask groundMask;
     bool isGrounded;
     public float jumpHeight = 3f;
+    bool jumpHeightReached = false;
     // Update is called once per frame
     void Update()
     {
@@ -25,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
         {
             velocity.y = -2f;
             currSpeed = speed;
+            jumpHeightReached = false;
         }
         if (!isGrounded)
         {
@@ -33,13 +35,29 @@ public class PlayerMovement : MonoBehaviour
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
 
+        // Braydon addition to run faster
+        if (Input.GetKey("left shift")) {
+            x *= 1.6f;
+            z *= 1.6f;
+        }
+        
         Vector3 move = transform.right * x + transform.forward * z;
         controller.Move(move * currSpeed * Time.deltaTime);
-        if(Input.GetButtonDown("Jump") && isGrounded)
-        {
+        if(Input.GetButtonDown("Jump") && isGrounded) {
             velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
-        velocity.y += gravity * Time.deltaTime;
+
+        // Braydon addition to help with jump control
+        if (!isGrounded && velocity.y <= 0f) {
+            jumpHeightReached = true;
+        }
+        if (jumpHeightReached) {
+            velocity.y += gravity * Time.deltaTime * 1.5f; // fall faster
+        } else {
+            velocity.y += gravity * Time.deltaTime * 1.0f; // rise slower
+        }
+        // ----------------------------
+
         controller.Move(velocity * Time.deltaTime);
         
     }
